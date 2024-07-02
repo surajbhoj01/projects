@@ -1,2 +1,1 @@
-# projects
-Sign , Login and forgot password page in c++ language
+A very simple project of login ,singup and forgot password page using c++.
